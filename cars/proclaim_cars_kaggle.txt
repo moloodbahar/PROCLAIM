@@ -1,0 +1,6 @@
+This data is used as a test set including these datasets:
+https://www.kaggle.com/avikasliwal/used-cars-price-prediction    
+https://www.kaggle.com/data/95902                                 
+https://www.kaggle.com/mirosval/personal-cars-classifieds        
+https://www.kaggle.com/murphydan/craigslist-cars-eda/data      
+https://www.kaggle.com/orgesleka/used-cars-database    
