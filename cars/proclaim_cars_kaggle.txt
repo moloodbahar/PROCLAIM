@@ -1,4 +1,4 @@
-This data is used as a test set including these datasets:
+This data is used as a test set, including these datasets:
 https://www.kaggle.com/avikasliwal/used-cars-price-prediction    
 https://www.kaggle.com/data/95902                                 
 https://www.kaggle.com/mirosval/personal-cars-classifieds        
