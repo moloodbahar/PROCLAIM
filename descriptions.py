@@ -8,7 +8,7 @@ import collections
 
 
 def replacementdictinary():
-    with open('ml_akbc/akbc/replacementdictinary.txt', 'rb') as handle:
+    with open('PROCLAIM/replacementdictinary.txt', 'rb') as handle:
         replacementdictinary = pickle.load(handle)
     return replacementdictinary
 
@@ -45,7 +45,7 @@ def word_count(strg):
     return counts
 
 def bigram2abbrdictinary():
-    with open('ml_akbc/akbc/bigramtoabbr.txt', 'rb') as handle:
+    with open('PROCLAIM/bigramtoabbr.txt', 'rb') as handle:
         bigram2abbr = pickle.load(handle)
     return bigram2abbr
 
